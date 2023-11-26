@@ -12,8 +12,7 @@ Started this unity practice project to try learn something different than java p
 will return to game design as a hobby after becoming comfortable in back-end and front-end programming.
 
 Running instructions:
-1. Download into one folder
-2. Open folder in Unity.
-3. Run Main scene.
+1. Clone this repository
+2. Execute 'TopDungeonTutorial.exe' in GameExe folder
 
 Date created: August 2022
